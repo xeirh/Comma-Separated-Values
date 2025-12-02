@@ -1,0 +1,8 @@
+
+// This file is manually edited and lists the specific common fast file dependecies for each level if one exists
+
+so_rts_mp_dockside,su_rts_mp_dockside
+so_rts_mp_socotra,su_rts_mp_socotra
+so_rts_mp_overflow,su_rts_mp_overflow
+so_rts_mp_drone,su_rts_mp_drone
+so_tut_mp_drone,su_tut_mp_drone

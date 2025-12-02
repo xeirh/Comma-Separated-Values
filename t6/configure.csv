@@ -1,0 +1,40 @@
+# The file is broken into the CPU section followed by the GPU section.,,,,,
+"# The first two columns of the CPU section must be ""cpu mhz"" then ""sys mb"".",,,,,
+"# The first column of the GPU section must be ""gpu"".  This triggers the start of the GPU section.",,,,,
+# Each subsequent column header in both sections is a dvar name.,,,,,
+"# In the CPU section, each dvar gets the value listed in its column for the row of the system settings that most closely match the current machine, without going over",,,,,
+"# In the GPU section, each dvar gets the value listed in its column for the row of the first GPU string to match.",,,,,
+"# For GPU names, spaces are treated as wildcards that match any sequence of 0 or more non-numeric characters.  You can use * to match 0 or more of any character, or ? to match any single character.",,,,,
+,,,,,
+,,,,,
+,,,,,
+cpu ghz,sys mb,ai_corpseCount
+0,128,5
+,,,,,
+,,,,,
+,,,,,
+cpu name,sm_enable,ai_corpseCount,fx_marks
+Intel(R) Core(TM)2*,0,3,0
+AMD Phenom(tm) 8*,0,3,0
+*,1,16,1
+,,,,,
+,,,,,
+,,,,,
+gpu,r_defaultMode,r_aaSamples,r_fxaa,r_ssao,sm_sunQuality,sm_spotQuality,r_bloomHiQuality,r_texFilterQuality
+,,,,,
+GeForce GTX 7*,.,4,1,1,1,1,0,2
+GeForce GTX 6*,.,4,1,1,1,1,0,2
+GeForce GTX 5*,.,4,1,1,1,1,0,2
+GeForce GTX 4*,.,2,1,1,0,0,0,2
+GeForce GTX 2*,.,2,1,1,0,0,0,2
+GeForce 9*,800x600,1,0,0,0,0,0,1
+GeForce 8*,800x600,1,0,0,0,0,0,1
+,,,,,
+Radeon HD 8*,.,4,1,1,1,1,0,2
+Radeon HD 7*,.,4,1,1,1,1,0,2
+Radeon HD 6*,.,4,1,1,1,1,0,2
+Radeon HD 5*,.,2,1,1,0,0,0,2
+Radeon HD 4*,800x600,1,0,0,0,0,0,1
+Radeon HD 3*,800x600,1,0,0,0,0,0,1
+,,,,,
+*,800x600,1,0,0,0,0,0,0

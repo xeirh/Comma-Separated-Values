@@ -1,0 +1,158 @@
+a0,b1,c2,d3,e4,f5,g6,h7,i8,j9,k10,l11,m12,n13,o14,p15,q16,r17,s18,t19
+0,,weapon_pistol,WEAPON_NULL,weapon_null,,menu_mp_lobby_none_selected,,,,,,,,,,,,,
+1,,weapon_pistol,knife,knife,,,,,,,,,,,,,,,
+2,,weapon_grenade,frag_grenade,frag_grenade,,,,,,,,,,,,,,,
+3,,weapon_grenade,sticky_grenade,sticky_grenade,,,,,,,,,,,,,,,
+4,,weapon_grenade,cymbal_monkey_zm,cymbal_monkey,,,,,,,,,,,,,,,
+5,,weapon_grenade,emp_grenade,emp_grenade,,,,,,,,,,,,,,,
+6,,,,,,,,,,,,,,,,,,,
+7,,weapon_pistol,m1911,m1911,,menu_mp_weapons_1911_big,,,,,,,,,,,,,0 1 2 3 4 5
+8,,weapon_pistol,python,python,,menu_mp_weapons_python_big,,,,,,,,,,,,,
+9,,weapon_pistol,judge,judge,,menu_mp_weapons_judge_big,,extbarrel dualclip,,,,,,,,,,,0 1 2 3 4 5
+10,,weapon_pistol,kard,kard,,menu_mp_weapons_kard_big,,extbarrel dualclip,,,,,,,,,,,
+11,,weapon_pistol,fiveseven,fiveseven,,menu_mp_weapons_five_seven_big,,extbarrel dualclip,,,,,,,,,,,
+12,,weapon_pistol,beretta93r,beretta93r,,menu_mp_weapons_baretta_big,,extbarrel dualclip,,,,,,,,,,,
+13,,weapon_pistol,fivesevendw,fivesevendw,,menu_mp_weapons_dual57s_big,,,,,,,,,,,,,
+14,,weapon_pistol,m1911_upgraded,m1911_upgraded,,menu_mp_weapons_1911_big,,,,,,,,,,,,,0 1 2 3 4 5
+15,,weapon_pistol,python_upgraded,python_upgraded,,menu_mp_weapons_python_big,,,,,,,,,,,,,
+16,,weapon_pistol,judge_upgraded,judge_upgraded,,menu_mp_weapons_judge_big,,extbarrel dualclip,,,,,,,,,,,0 1 2 3 4 5
+17,,weapon_pistol,kard_upgraded,kard_upgraded,,menu_mp_weapons_kard_big,,extbarrel dualclip,,,,,,,,,,,
+18,,weapon_pistol,fiveseven_upgraded,fiveseven_upgraded,,menu_mp_weapons_five_seven_big,,extbarrel dualclip,,,,,,,,,,,
+19,,weapon_pistol,beretta93r_upgraded,beretta93r_upgraded,,menu_mp_weapons_baretta_big,,extbarrel dualclip,,,,,,,,,,,
+20,,weapon_pistol,fivesevendw_upgraded,fivesevendw_upgraded,,menu_mp_weapons_dual57s_big,,,,,,,,,,,,,
+21,,,,,,,,,,,,,,,,,,,
+22,,weapon_smg,ak74u,ak74u,,menu_mp_weapons_ak74u_big,,reflex,,,,,,,,,,,
+23,,weapon_smg,mp5k,mp5k,,menu_mp_weapons_mp5_big,,,,,,,,,,,,,0 1 2 3 4 5
+24,,weapon_smg,qcw05,qcw05,,menu_mp_weapons_qcw_big,,reflex grip dualclip sf,,,,,,,,,,,
+25,,weapon_smg,ak74u_upgraded,ak74u_upgraded,,menu_mp_weapons_ak74u_big,,reflex,,,,,,,,,,,
+26,,weapon_smg,mp5k_upgraded,mp5k_upgraded,,menu_mp_weapons_mp5_big,,,,,,,,,,,,,0 1 2 3 4 5
+27,,weapon_smg,qcw05_upgraded,qcw05_upgraded,,menu_mp_weapons_qcw_big,,reflex grip dualclip sf,,,,,,,,,,,
+28,,,,,,,,,,,,,,,,,,,
+29,,weapon_cqb,870mcs,870mcs,,menu_mp_weapons_870mcs_big,,reflex extbarrel,,,,,,,,,,,
+30,,weapon_cqb,rottweil72,rottweil72,,menu_mp_weapons_rottweil72_big,,,,,,,,,,,,,0 1 2 3 4 5
+31,,weapon_cqb,saiga12,saiga12,,menu_mp_weapons_saiga12_big,,reflex extbarrel,,,,,,,,,,,0 1 2 3 4 5
+32,,weapon_cqb,srm1216,srm1216,,menu_mp_weapons_srm_big,,reflex extbarrel,,,,,,,,,,,
+33,,weapon_cqb,870mcs_upgraded,870mcs_upgraded,,menu_mp_weapons_870mcs_big,,reflex extbarrel,,,,,,,,,,,
+34,,weapon_cqb,rottweil72_upgraded,rottweil72_upgraded,,menu_mp_weapons_rottweil72_big,,,,,,,,,,,,,0 1 2 3 4 5
+35,,weapon_cqb,saiga12_upgraded,saiga12_upgraded,,menu_mp_weapons_saiga12_big,,reflex extbarrel,,,,,,,,,,,0 1 2 3 4 5
+36,,weapon_cqb,srm1216_upgraded,srm1216_upgraded,,menu_mp_weapons_srm_big,,reflex extbarrel,,,,,,,,,,,
+37,,,,,,,,,,,,,,,,,,,
+38,,weapon_assault,m14,m14,,menu_mp_weapons_m14_big,,,,,,,,,,,,,
+39,,weapon_assault,m16,m16,,menu_mp_weapons_m16_big,,,,,,,,,,,,,0 1 2 3 4 5
+40,,weapon_assault,saritch,saritch,,menu_mp_weapons_saritch_big,,reflex mms rangefinder dualoptic,,,,,,,,,,,0 1 2 3 4 5
+41,,weapon_assault,xm8,xm8,,menu_mp_weapons_xm8_big,,longbreath reflex mms rangefinder gl,,,,,,,,,,,0 1 2 3 4 5
+42,,weapon_assault,type95,type95,,menu_mp_weapons_type95_big,,longbreath reflex mms rangefinder gl,,,,,,,,,,,
+43,,weapon_assault,tar21,tar21,,menu_mp_weapons_tar21_big,,longbreath reflex mms rangefinder gl,,,,,,,,,,,0 1 2 3 4 5
+44,,weapon_assault,m14_upgraded,m14_upgraded,,menu_mp_weapons_m14_big,,,,,,,,,,,,,
+45,,weapon_assault,m16_upgraded,m16_upgraded,,menu_mp_weapons_m16_big,,,,,,,,,,,,,0 1 2 3 4 5
+46,,weapon_assault,m16_gl_upgraded,m16_gl_upgraded,,menu_mp_weapons_m16_big,,,,,,,,,,,,,0 1 2 3 4 5
+47,,weapon_assault,saritch_upgraded,saritch_upgraded,,menu_mp_weapons_saritch_big,,reflex mms rangefinder dualoptic,,,,,,,,,,,0 1 2 3 4 5
+48,,weapon_assault,xm8_upgraded,xm8_upgraded,,menu_mp_weapons_xm8_big,,longbreath reflex mms rangefinder gl,,,,,,,,,,,0 1 2 3 4 5
+49,,weapon_assault,type95_upgraded,type95_upgraded,,menu_mp_weapons_type95_big,,longbreath reflex mms rangefinder gl,,,,,,,,,,,
+50,,weapon_assault,tar21_upgraded,tar21_upgraded,,menu_mp_weapons_tar21_big,,longbreath reflex mms rangefinder gl,,,,,,,,,,,0 1 2 3 4 5
+51,,,,,,,,,,,,,,,,,,,
+52,,weapon_lmg,galil,galil,,menu_mp_weapons_galil_big,,reflex,,,,,,,,,,,
+53,,weapon_lmg,fnfal,fnfal,,menu_mp_weapons_fal_big,,reflex,,,,,,,,,,,
+54,,weapon_lmg,rpd,rpd,,menu_mp_weapons_rpd_big,,reflex grip acog,,,,,,,,,,,0 1 2 3 4 5
+55,,weapon_lmg,hamr,hamr,,menu_mp_weapons_hamr_big,,reflex grip acog,,,,,,,,,,,
+56,,weapon_lmg,galil_upgraded,galil_upgraded,,menu_mp_weapons_galil_big,,reflex,,,,,,,,,,,
+57,,weapon_lmg,fnfal_upgraded,fnfal_upgraded,,menu_mp_weapons_fal_big,,reflex,,,,,,,,,,,
+58,,weapon_lmg,rpd_upgraded,rpd_upgraded,,menu_mp_weapons_rpd_big,,reflex grip acog,,,,,,,,,,,0 1 2 3 4 5
+59,,weapon_lmg,hamr_upgraded,hamr_upgraded,,menu_mp_weapons_hamr_big,,reflex grip acog,,,,,,,,,,,
+60,,,,,,,,,,,,,,,,,,,
+61,,weapon_sniper,dsr50,dsr50,,menu_mp_weapons_dsr1_big,,is silencer vzoom ,,,,,,,,,,,
+62,,weapon_sniper,barretm82,barretm82,,menu_mp_weapons_m82a_big,,vzoom ,,,,,,,,,,,0 1 2 3 4 5
+63,,weapon_sniper,dsr50_upgraded,dsr50_upgraded,,menu_mp_weapons_dsr1_big,,is silencer vzoom ,,,,,,,,,,,
+64,,weapon_sniper,barretm82_upgraded,barretm82_upgraded,,menu_mp_weapons_m82a_big,,vzoom ,,,,,,,,,,,0 1 2 3 4 5
+65,,,,,,,,,,,,,,,,,,,
+66,,weapon_launcher,usrpg,usrpg,,menu_mp_weapons_rpg_big,,,,,,,,,,,,,0 1 2 3 4 5
+67,,weapon_launcher,m32,m32,,menu_mp_weapons_m32gl_big,,,,,,,,,,,,,
+68,,weapon_launcher,usrpg_upgraded,usrpg_upgraded,,menu_mp_weapons_rpg_big,,,,,,,,,,,,,0 1 2 3 4 5
+69,,weapon_launcher,m32_upgraded,m32_upgraded,,menu_mp_weapons_m32gl_big,,,,,,,,,,,,,
+70,,,,,,,,,,,,,,,,,,,
+71,,weapon_special,ray_gun,ray_gun,,menu_zm_weapons_raygun_big,,,,,,,,,,,,,
+72,,weapon_special,jetgun,jetgun,,menu_zm_weapons_jetgun_big,,,,,,,,,,,,,0
+73,,weapon_special,riotshield,riotshield,,menu_zm_weapons_shield_big,,,,,,,,,,,,,0
+74,,weapon_special,tazer_knuckles,tazer_knuckles,,,,,,,,,,,,,,,
+75,,weapon_special,knife_ballistic,knife_ballistic,,menu_mp_weapons_ballistic_80_big,,,,,,,,,,,,,
+76,,weapon_special,knife_ballistic_upgraded,knife_ballistic_upgraded,,menu_mp_weapons_ballistic_80_big,,,,,,,,,,,,,
+77,,,,,,,,,,,,,,,,,,,
+78,,weapon_assault,hk416,hk416,,menu_mp_weapons_hk416_big,,reflex longbreath rangefinder mms,,,,,,,,,,,
+79,,weapon_assault,lsat,lsat,,menu_mp_weapons_lsat_big,,rangefinder reflex grip acog,,,,,,,,,,,
+80,,weapon_assault,hk416_upgraded,hk416_upgraded,,menu_mp_weapons_hk416_big,,reflex longbreath rangefinder mms,,,,,,,,,,,
+81,,weapon_assault,lsat_upgraded,lsat_upgraded,,menu_mp_weapons_lsat_big,,rangefinder reflex grip acog,,,,,,,,,,,
+82,,,,,,,,,,,,,,,,,,,
+83,,weapon_assault,an94,an94,,menu_mp_weapons_an94,,grip reflex mms rangefinder,,,,,,,,,,,2 5
+84,,weapon_smg,pdw57,pdw57,,menu_mp_weapons_ar57_big,,reflex mms rangefinder,,,,,,,,,,,
+85,,weapon_sniper,svu,svu,,menu_mp_weapons_svu_big,,vzoom,,,,,,,,,,,2 5
+86,,weapon_assault,an94_upgraded,an94_upgraded,,menu_mp_weapons_an94,,grip reflex mms rangefinder,,,,,,,,,,,2 5
+87,,weapon_smg,pdw57_upgraded,pdw57_upgraded,,menu_mp_weapons_ar57_big,,reflex mms rangefinder,,,,,,,,,,,
+88,,weapon_sniper,svu_upgraded,svu_upgraded,,menu_mp_weapons_svu_big,,vzoom,,,,,,,,,,,2 5
+89,,,,,,,,,,,,,,,,,,,
+90,,weapon_special,slipgun,slipgun,,menu_zm_weapons_slipgun_big,,,,,,,,,,,,,2
+91,,,,,,,,,,,,,,,,,,,
+92,,weapon_special,slipgun_upgraded,slipgun_upgraded,,menu_zm_weapons_slipgun_big,,,,,,,,,,,,9,2
+93,,weapon_special,knife_ballistic_bowie,knife_ballistic_bowie,,menu_mp_weapons_ballistic_80_big,,,,,,,,,,,,9,
+94,,weapon_special,knife_ballistic_bowie_upgraded,knife_ballistic_bowie_upgraded,,menu_mp_weapons_ballistic_80_big,,,,,,,,,,,,9,
+95,,,,,,,,,,,,,,,,,,,
+96,,weapon_special,alcatraz_shield,alcatraz_shield,,menu_zm_weapons_hell_shield_big,,,,,,,,,,,,9,4
+97,,weapon_special,minigun_alcatraz,minigun_alcatraz,,menu_mp_weapons_minigun_future_big,,,,,,,,,,,,9,4
+98,,weapon_special,blundergat,blundergat,,menu_zm_weapons_blundergat_big,,,,,,,,,,,,9,4
+99,,weapon_special,blundersplat,blundersplat,,menu_zm_weapons_acidgat_big,,,,,,,,,,,,9,4
+100,,weapon_special,bouncing_tomahawk,bouncing_tomahawk,,,,,,,,,,,,,,9,4
+101,,weapon_special,minigun_alcatraz_upgraded,minigun_alcatraz_upgraded,,menu_mp_weapons_minigun_future_big,,,,,,,,,,,,9,4
+102,,weapon_special,blundergat_upgraded,blundergat_upgraded,,menu_zm_weapons_blundergat_big,,,,,,,,,,,,9,4
+103,,weapon_special,blundersplat_upgraded,blundersplat_upgraded,,menu_zm_weapons_acidgat_big,,,,,,,,,,,,9,4
+104,,weapon_special,upgraded_tomahawk,upgraded_tomahawk,,,,,,,,,,,,,,9,4
+105,,,,,,,,,,,,,,,,,,,
+106,,weapon_assault,ak47,ak47,,menu_mp_weapons_ak47_big,,,,,,,,,,,,9,4
+107,,weapon_smg,uzi,uzi,,menu_mp_weapons_uzi_big,,,,,,,,,,,,9,4
+108,,weapon_smg,thompson,thompson,,menu_zm_weapons_thompson_big,,,,,,,,,,,,9,4 6
+109,,weapon_assault,ak47_upgraded,ak47_upgraded,,menu_mp_weapons_ak47_big,,,,,,,,,,,,9,4
+110,,weapon_smg,uzi_upgraded,uzi_upgraded,,menu_mp_weapons_uzi_big,,,,,,,,,,,,9,4
+111,,weapon_smg,thompson_upgraded,thompson_upgraded,,menu_zm_weapons_thompson_big,,,,,,,,,,,,9,4 6
+112,,,,,,,,,,,,,,,,,,,
+113,,weapon_special,blundersplat,blundersplat_explosive_dart,,menu_zm_weapons_acidgat_big,,,,,,,,,,,,9,4
+114,,,,,,,,,,,,,,,,,,,
+115,,weapon_grenade,time_bomb,time_bomb,,,,,,,,,,,,,,13,5
+116,,weapon_pistol,rnma,rnma,,menu_zm_weapons_rnma_big,,,,,,,,,,,,13,5
+117,,weapon_special,slowgun,slowgun,,menu_zm_weapons_slowgun_big,,,,,,,,,,,,13,5
+118,,weapon_pistol,rnma_upgraded,rnma_upgraded,,menu_zm_weapons_rnma_big,,,,,,,,,,,,13,5
+119,,weapon_special,slowgun_upgraded,slowgun_upgraded,,menu_zm_weapons_slowgun_big,,,,,,,,,,,,13,5
+120,,,,,,,,,,,,,,,,,,,
+121,,weapon_special,raygun_mark2,raygun_mark2,,menu_zm_weapons_raygun_mark2_big,,,,,,,,,,,,13,
+122,,weapon_special,raygun_mark2_upgraded,raygun_mark2_upgraded,,menu_zm_weapons_raygun_mark2_big,,,,,,,,,,,,13,
+123,,weapon_special,ray_gun_upgraded,ray_gun_upgraded,,menu_zm_weapons_raygun_big,,,,,,,,,,,,13,
+124,,,,,,,,,,,,,,,,,,,
+125,,weapon_grenade,beacon,beacon,,,,,,,,,,,,,,13,6
+126,,weapon_pistol,c96,c96,,menu_zm_weapons_mc96_big,,,,,,,,,,,,13,6
+127,,weapon_lmg,mg08,mg08,,menu_zm_weapons_mg08_big,,,,,,,,,,,,13,6
+128,,weapon_assault,mp44,mp44,,menu_zm_weapons_stg44_big,,,,,,,,,,,,13,6
+129,,weapon_assault,scar,scar,,menu_mp_weapons_scar_big,,reflex rangefinder dualclip acog,,,,,,,,,,13,6
+130,,weapon_cqb,ak74u_extclip,ak74u_extclip,,menu_mp_weapons_ak74u_big,,reflex,,,,,,,,,,13,6
+131,,weapon_cqb,ksg,ksg,,menu_mp_weapons_ksg_big,,reflex,,,,,,,,,,13,6
+132,,weapon_smg,mp40,mp40,,menu_zm_weapons_mp40_big,,,,,,,,,,,,13,6
+133,,weapon_smg,mp40_stalker,mp40_stalker,,menu_zm_weapons_mp40_big,,,,,,,,,,,,13,6
+134,,weapon_smg,evoskorpion,evoskorpion,,menu_mp_weapons_evoskorpion_big,,reflex rangefinder dualclip,,,,,,,,,,13,6
+135,,weapon_sniper,ballista,ballista,,menu_mp_weapons_ballista_big,,acog is,,,,,,,,,,13,6
+136,,weapon_pistol,beretta93r_extclip,beretta93r_extclip,,menu_mp_weapons_baretta_big,,extbarrel dualclip,,,,,,,,,,13,6
+137,,weapon_special,staff_air,staff_air,,menu_zm_weapons_staff_air_big,,,,,,,,,,,,13,6
+138,,weapon_special,staff_fire,staff_fire,,menu_zm_weapons_staff_fire_big,,,,,,,,,,,,13,6
+139,,weapon_special,staff_lightning,staff_lightning,,menu_zm_weapons_staff_lightning_big,,,,,,,,,,,,13,6
+140,,weapon_special,staff_water,staff_water,,menu_zm_weapons_staff_water_big,,,,,,,,,,,,13,6
+141,,weapon_pistol,c96_upgraded,c96_upgraded,,menu_zm_weapons_mc96_big,,,,,,,,,,,,13,6
+142,,weapon_lmg,mg08_upgraded,mg08_upgraded,,menu_zm_weapons_mg08_big,,,,,,,,,,,,13,6
+143,,weapon_assault,mp44_upgraded,mp44_upgraded,,menu_zm_weapons_stg44_big,,,,,,,,,,,,13,6
+144,,weapon_assault,scar_upgraded,scar_upgraded,,menu_mp_weapons_scar_big,,reflex rangefinder dualclip acog,,,,,,,,,,13,6
+145,,weapon_cqb,ak74u_extclip_upgraded,ak74u_extclip_upgraded,,menu_mp_weapons_ak74u_big,,reflex,,,,,,,,,,13,6
+146,,weapon_cqb,ksg_upgraded,ksg_upgraded,,menu_mp_weapons_ksg_big,,reflex,,,,,,,,,,13,6
+147,,weapon_smg,mp40_upgraded,mp40_upgraded,,menu_zm_weapons_mp40_big,,,,,,,,,,,,13,6
+148,,weapon_smg,mp40_stalker_upgraded,mp40_stalker_upgraded,,menu_zm_weapons_mp40_big,,,,,,,,,,,,13,6
+149,,weapon_smg,evoskorpion_upgraded,evoskorpion_upgraded,,menu_mp_weapons_evoskorpion_big,,reflex rangefinder dualclip,,,,,,,,,,13,6
+150,,weapon_sniper,ballista_upgraded,ballista_upgraded,,menu_mp_weapons_ballista_big,,acog is,,,,,,,,,,13,6
+151,,weapon_pistol,beretta93r_extclip_upgraded,beretta93r_extclip_upgraded,,menu_mp_weapons_baretta_big,,extbarrel dualclip,,,,,,,,,,13,6
+152,,weapon_special,staff_air_upgraded,staff_air_upgraded,,menu_zm_weapons_staff_air_big,,,,,,,,,,,,13,6
+153,,weapon_special,staff_fire_upgraded,staff_fire_upgraded,,menu_zm_weapons_staff_fire_big,,,,,,,,,,,,13,6
+154,,weapon_special,staff_lightning_upgraded,staff_lightning_upgraded,,menu_zm_weapons_staff_lightning_big,,,,,,,,,,,,13,6
+155,,weapon_special,staff_water_upgraded,staff_water_upgraded,,menu_zm_weapons_staff_water_big,,,,,,,,,,,,13,6
+156,,weapon_special,tomb_shield,tomb_shield,,menu_zm_weapons_tomb_shield_big,,,,,,,,,,,,13,6
